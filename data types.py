@@ -15,6 +15,7 @@ print(type(name))     #<class 'str'>
 print(type(flt))      #<class 'float'>
 print(type(age))      #<class 'int'>
 print(type(old))      #<class 'bool'>
+print(type(a))        #<class 'NoneType'>
 
 
 
