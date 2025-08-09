@@ -18,6 +18,13 @@ print(type(old))      #<class 'bool'>
 print(type(a))        #<class 'NoneType'>
 
 
+full_name = "Rohan Ghalme"
+age = 22
+address = "Pune"
 
+print(full_name,end=' & ')
+print(age,end=' & ')
+print(address)
 
-
+print(full_name,age,address)
+print(full_name,age,address,sep=' , ')

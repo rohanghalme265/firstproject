@@ -13,6 +13,8 @@ while x < 5:
 else:
     print(f'x is not less than 5')
 
+#
+
 y=50
 while y<10:
     print(f'the current value of y is {y}')
@@ -152,7 +154,92 @@ print("Random number between 1 and 10:",num)
 
 
 #how to expect user input
-print(input('Enter a number here:  '))
+# print(input('Enter a number here:  '))
+
+i = 0
+while i<5:
+    print(i,end=" ")
+    i+=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
