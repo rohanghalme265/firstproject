@@ -1,8 +1,24 @@
+'''
+#INTRODUCTION TO PYTHON:-
+  Python is a versatile,high-level,general-purpose programming language designed for readability and ease of use.
+
+  *Interpreted-It means code runs line by line
+  *High-level
+  *Object-oriented
+  *Extensive libraries
+  *Beginner-friendly
+
+
+'''
+
+
 print("hello world")
 print("my name is Rohan")
 print("my name is Rohan.","my age is 23.")
 #print is a function in python
 #To get output in one line we use Coma(,)
+
+
 
 #variable= A Variable is name given to the memory location
 #variable cannot start with digit while varible1 is valid and 1variable is not valid
